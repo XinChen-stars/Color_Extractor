@@ -31,10 +31,9 @@ Settings of the image can be modified in `color_extraction.py`. Important settin
 
 ## Example
 <div align="center">
-  <img src="pics/guimie.png" alt="preview" width="640" height="480">
-  <img src="pics/wall3.png" alt="preview" width="640" height="480">
-  <img src="pics/wall7.png" alt="preview" width="640" height="480">
-  <img src="pics/wall6.png" alt="preview" width="640" height="480">
-  <img src="pics/justice.png" alt="preview" width="640" height="480">
   <img src="pics/sypider_example.png" alt="preview" width="640" height="480">
+  <img src="pics/guimie.png" alt="preview" width="640" height="480">
+  <img src="pics/justice.png" alt="preview" width="640" height="480">
+  <img src="pics/wall6.png" alt="preview" width="640" height="480">
+  <img src="pics/wall3.png" alt="preview" width="640" height="480">
 </div>
