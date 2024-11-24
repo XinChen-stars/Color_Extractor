@@ -12,7 +12,7 @@ A simple python script to extract the most common colors from an image.
 
 ## Installation
 ```bash
-git clone 
+git clone https://github.com/XinChen-stars/Color_Extractor.git
 ```
 
 ## Usage
