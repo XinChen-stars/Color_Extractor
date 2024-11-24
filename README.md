@@ -37,3 +37,7 @@ Settings of the image can be modified in `color_extraction.py`. Important settin
   <img src="pics/wall6.png" alt="preview" width="640" height="480">
   <img src="pics/wall3.png" alt="preview" width="640" height="480">
 </div>
+
+## Website
+Find more beautiful image on:
+- [wallhaven](https://wallhaven.cc/) - The best wallpapers website
